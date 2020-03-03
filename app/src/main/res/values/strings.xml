@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"><font fgcolor='#FF000000'>Laura Whalen\'s Calculator</font></string>
+    <string name="txtAC">AC</string>
+    <string name="txtDEL">DEL</string>
+    <string name="txtPosNeg">+/-</string>
+    <string name="txtDivide">/</string>
+    <string name="txt7">7</string>
+    <string name="txt8">8</string>
+    <string name="txt9">9</string>
+    <string name="txtMultiply">*</string>
+    <string name="txt4">4</string>
+    <string name="txt5">5</string>
+    <string name="txt6">6</string>
+    <string name="txtSubtract">-</string>
+    <string name="txt1">1</string>
+    <string name="txt2">2</string>
+    <string name="txt3">3</string>
+    <string name="txtAdd">+</string>
+    <string name="txt0">0</string>
+    <string name="txtDecimal">.</string>
+    <string name="txtEquals">=</string>
+</resources>
